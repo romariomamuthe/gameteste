@@ -1,0 +1,126 @@
+{
+  "character": "final_boss",
+  "canvas": {
+    "width": 320,
+    "height": 320
+  },
+  "frames": {
+    "boss_idle_01": {
+      "file": "boss_idle_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_walk_01": {
+      "file": "boss_walk_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_walk_02": {
+      "file": "boss_walk_02.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_walk_03": {
+      "file": "boss_walk_03.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_walk_04": {
+      "file": "boss_walk_04.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_punch_01": {
+      "file": "boss_punch_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_kick_01": {
+      "file": "boss_kick_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_jump_punch_01": {
+      "file": "boss_jump_punch_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_jump_kick_01": {
+      "file": "boss_jump_kick_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_crouch_01": {
+      "file": "boss_crouch_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_special_01": {
+      "file": "boss_special_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_damage_01": {
+      "file": "boss_damage_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    },
+    "boss_knockdown_01": {
+      "file": "boss_knockdown_01.png",
+      "width": 320,
+      "height": 320,
+      "anchor": {
+        "x": 160,
+        "y": 312
+      }
+    }
+  }
+}
